@@ -1,0 +1,13 @@
+list1=[12,23,4,5,613,34,34,53]
+tuple1=(12,45,23,545,43,43)
+set1={5,4,5,5,6545,55,55,343}
+#list1.clear()
+#list1.append(23)
+#list1.insert(1,45)
+#list1.insert(0,12)
+#print(list1)
+#list1.pop(0)
+#list1.remove(23)
+print(list1)
+print(tuple1)
+print(set1)
